@@ -1,6 +1,6 @@
 # Dr. Maya Reynolds - Clinical Psychologist Website
 
-A professional, compassionate, and responsive website for Dr. Maya Reynolds, a Licensed Clinical Psychologist based in Santa Monica. This project is built with **Next.js 15**, **React 19**, and **Tailwind CSS v4** to ensure high performance, SEO optimization, and a premium user experience.
+A professional and responsive website for Dr. Maya Reynolds, a Licensed Clinical Psychologist in Santa Monica. Built with **Next.js 15**, **React 19**, and **Tailwind CSS v4**.
 
 ## 🚀 Live Demo
 
